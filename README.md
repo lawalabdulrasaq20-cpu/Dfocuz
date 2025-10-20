@@ -20,4 +20,16 @@ This project is designed to promote cybersecurity awareness, display security-re
 
 - **HTML5** – Structure  
 - **CSS3** – Styling and layout  
-- **JavaScript (Vanilla)** – Interactivity and animations  
+- **JavaScript (Vanilla)** – Interactivity and animations
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/62a6f1e4-b0d5-4d93-8120-bde5d62eb87c
+
+
+
